@@ -21,6 +21,26 @@
 ## Funcionalidades:
 
 ## Tecnológias utilizadas:
+As tecnólogias utilizadas para a criação foram..
+
+HTML    
+
+<img src="_img/html.png" width="30%">
+
+
+GitHub
+
+   <img src="_img/github.png" width="30%">
+
+Visual Studio Code
+
+   <img src="_img/vscode.png" width="30%">
+
+JavaScript
+
+   <img src="_img/javascript.png" width="30%">
+
+
 
 ## Fontes consultadas:
 
