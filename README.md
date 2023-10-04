@@ -15,28 +15,35 @@
 # Projeto - Form-CadEndereco
 
 ## Descrição:
+O site tem como a sua principal função, informar os dados de endereço do cadastro 
+automáticamente, apenas utilizando o CEP. Sua principal funcionalidade é a detecção
+do endereço via CEP. Com HTML, GitHub,Visual Studio Code e JavaScript tendo sido utilizadas no processo, além disso foi-se utilizado 3 fontes de consultas diferentes, todas elas presentes com links diretos no penúltimo indíce desse README.👇
+
 
 ## Introdução:
+O site tem como a sua principal função, informar os dados de endereço do cadastro 
+automáticamente, apenas utilizando o CEP.
 
-## Funcionalidades:
+## Funcionalidades: 
+  Cadastrar o endereço apenas com o CEP
 
 ## Tecnológias utilizadas:
 As tecnólogias utilizadas para a criação foram..
 
-HTML    
+🔧🇭 🇹 🇲 🇱🔧  
 
 <img src="_img/html.png" width="30%">
 
 
-GitHub
+🔧🇬 🇮 🇹 🇭 🇺 🇧🔧
 
    <img src="_img/github.png" width="30%">
 
-Visual Studio Code
+🔧🇻 🇮 🇸 🇺 🇦 🇱  🇸 🇹 🇺 🇩 🇮 🇴  🇨 🇴 🇩 🇪 🔧
 
    <img src="_img/vscode.png" width="30%">
 
-JavaScript
+🔧🇯 🇦 🇻 🇦 🇸 🇨 🇷 🇮 🇵 🇹 🔧
 
    <img src="_img/javascript.png" width="30%">
 
